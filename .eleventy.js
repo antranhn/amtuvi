@@ -703,7 +703,47 @@ module.exports = function(eleventyConfig) {
   });
 
   userEleventySetup(eleventyConfig);
+  
+  /* ===== AUTO PERMALINK FIX ===== */
 
+const crypto = require("crypto");
+const slugify = require("slugify");
+
+function createUniqueSlug(data) {
+  const base = data.title || data.page.fileSlug;
+
+  const clean = slugify(base, {
+    lower: true,
+    strict: true
+  });
+
+  const hash = crypto
+    .createHash("md5")
+    .update(data.page.inputPath)
+    .digest("hex")
+    .substring(0, 6);
+
+  return `${clean}-${hash}`;
+}
+
+eleventyConfig.addGlobalData("permalink", (data) => {
+  if (!data.page || !data.page.inputPath.includes("notes")) {
+    return;
+  }
+
+  const slug = createUniqueSlug(data);
+  const pathParts = data.page.inputPath.split("/");
+  const letterFolder = pathParts[pathParts.length - 2];
+
+  const letterSlug = slugify(letterFolder, {
+    lower: true,
+    strict: true
+  });
+
+  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${slug}/index.html`;
+});
+
+/* ===== END FIX ===== */
   return {
     dir: {
       input: "src/site",
