@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/an-c/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/an-c-5/"}
 ---
 
 恩 Ân. _c_.
