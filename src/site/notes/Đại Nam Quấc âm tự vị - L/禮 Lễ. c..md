@@ -1,0 +1,144 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-l/le-c/"}
+---
+
+禮 Lễ. *c*.
+
+Khuôn phép, phép bày ra cho tỏ đều kính trọng, cho ra đều lịch sự; của dâng đưa, dâng cúng.
+
+- *― pháp, hay là ― phép*. Khuôn phép, phép lịch sự, phép phải giữ cho tổ đều cung kính.
+- *― số*. id.
+- *― văn*. id.
+- *― tiết*. id.
+- *― mạo*. id.
+- *― nghi, hay là nghi ―*. id.
+- *― nghĩa, hay là ― ngãi*. id. Khuôn phép nghĩa phải.
+- *― chế*. Lễ phép đã định.
+- *Chế ―*. Định lễ phép.
+- *― nhạc*. Việc lễ việc nhạc, những đều phải giữ trong lễ nhạc, thường hiểu là lễ phép mà thôi.
+- *― tết*. Lễ vui mầng đầu năm, lễ vật đầu năm.
+- *― chánh đản*. id.
+- *― mồng năm*. Lễ vui chơi ngày mồng 5 tháng năm; lễ vật dâng đưa trong ngày ấy.
+- *― đoan ngũ*. id.
+- *Làm ―*. Làm theo lễ phép, thường hiểu là quì lạy: Cho chàng rể làm lễ.
+- *Dâng ―*. Dâng đưa của lễ.
+- *Đi ―*. Đem lễ vật cho ai.
+- *Tướng ―*. Thầy lễ, người dạy biểu việc lễ, trong khi có người chết, nhứt là trong sự may đồ chế.
+- *Tân ―*. id.
+- *Tiền tra ―, câu ―*. Tiền thất công, hai đàng kiện thưa tới làng, phải chịu cho làng.
+- *Chịu ―*. Chịu lấy của người ta cho.
+- *Thọ ―*. id.
+- *Nhậm ―*. id.
+- *Dùng ―*. id.
+- *Ăn ―*. id. Cũng có nghĩa là ăn của hối lộ.
+- *Của ―*. Của dâng cúng, của cho, của lo lót.
+- *― vật*. id.
+- *― mễ*. id.
+- *Cao ― dễ thưa*. Có lễ vật nhiều thì dễ mua lòng người.
+- *Tài ―*. Của đi cưới, lễ vật đi cưới.
+- *Gia ―*. Lễ phép riêng, sách dạy các lễ, là quan, hôn, tang, lễ.
+- *― sanh*. Học trò lễ, học trò gia lễ, những người học tập việc lễ, để mà giúp cho kẻ khác.
+- *Học trò ―*. id.
+- *Tế ―, hoặc ― tế*. Dâng của tế lễ, làm việc tế lễ; của dùng mà tế.
+- *Điện ― vật*. Sắm lễ vật.
+- *Tạm dùng ― vật*. Dùng đỡ vật chỉ làm của lễ; tiếng xin ai khăng chịu lấy vật mình dâng.
+- *― cưới*. Phép cưới, lễ vật dùng mà cưới.
+- *― hỏi*. Lễ phép trong khi đi hỏi lễ ; đi hỏi.
+- *― tân quan*. Lễ vật măng quan mới đáo nhậm.
+- *― ra mắt*. Lễ đi viếng ai, lễ tới lần đầu cho biết nhau. (thường nói về sự nhà trai đi viếng nhà gái).
+- *― mọn*. Lễ vật nhỏ mọn, không đáng là bao nhiêu.
+- *― lớn*. Lễ vật trọng, đáng nhiều tiền; ngày vui mầng lớn, làm lễ phép nhiều.
+- *― thần*. Làm lễ kính trọng vì thần, hoặc tạ thần.
+- *― tổ*. Làm lễ tạ ơn ông tổ nghề nghiệp mình, (thường nói về tổ thầy thuốc).
+- *― tiên sư*. Làm lễ kính trọng, hoặc tạ ơn ông tổ bày nghề gì ra trước.
+- *― đất*. Cúng thần đất đai.
+- *― thành*. Làm các lễ rồi; tiếng xướng rằng: Việc lễ đã an thành.
+- *― tắt*. id.
+- *― bộ thượng thơ*. Quan thượng thơ bộ lễ.
+- *Thất ―*. Trái lễ, không phải lễ, không nhẩm lễ.
+- *Bỏ ―*. Bỏ qua lễ phép mà không làm, hoặc không giữ.
+- *Vô ―*. Tiếng mắng người không giữ lễ phép.
+- *Phi ―*. Không phải là lễ phép, không nhằm lễ phép, trái phép.
+- *Miễn ―*. Cho khỏi giữ phép, tiếng xin châm chế đừng bắt phép, hoặc xin chịu lỗi vì không giữ phép.
+- *Sinh ―*. Bày sắm lễ vật, sinh bày lễ cưới.
+- *Hành ―*. Cứ theo lễ mà quì lạy, (đồng nghĩa với tiếng làm lễ).
+- *Sách ―*. Sách dạy việc lễ.
+- *Kinh ―*. Một bộ sách trong ngũ kinh, dạy về việc lễ.
+- *Châu ―*. Lễ chế nhà Châu.
+- *Khúc ―*. Tên sách dạy về việc lễ.
+- *法 不 加 於 君 子 不 执 於 小 人 Pháp bất gia ư quân tử, ― bất chấp ư tiểu nhơn*. Người quân tử khôn ngoan, biết đủ phép, thì chẳng còn nài sự chi thêm; đứa tiểu nhơn dại dột không biết lễ, thì chẳng phải chấp nhứt, chẳng lễ bất thiếu.
+- *Thành ―*. Làm đủ lễ, xong xuôi theo việc lễ.
+- *Đủ ―*. id.
+- *Làm ―*. Dâng lễ Misa. (Từ đây cho đến cùng chữ này, nói về việc trong đạo Thiên-chúa).
+- *Chầu ―.* 
+- *Xem ―.* 
+- *} Chầu chực lễ Misa.*
+- *Rước ―.* 
+- *Chịu ―.* 
+- *} Chịu lấy mình Thánh–chúa.*
+- *Giảng ―*. Giảng kinh sách, lễ phép, trong khi làm lễ.
+- *Ngày ―*. Ngày có việc lễ nhạc.
+- *― lạy*. Cũng về lễ trọng.
+- *― hàng*. Lễ thường.
+- *― cả*. Lễ trọng, lễ lớn.
+- *― tro*. Lễ xức tro nhằm ngày thứ tư.
+- *― đèn*. Các ngày lễ trong tuần thánh.
+- *― lá*. Lễ phát lá nhằm ngày chúa nhựt.
+- *Bánh ―*. Bánh dùng mà tế lễ.
+- *Nước ―*. Nước làm phép, (thường kêu là nước thánh).
+- *Tế ―*. Dâng lễ tế.
+- *Hát ―*. Hát kinh trong khi làm lễ.
+- *Giúp ―*. Giúp cho thầy cả, trong khi làm lễ.
+- *Học trò giúp ―*. Học trò giúp về việc làm lễ.
+- *Học trò ―*. id.
+- *Tế ―, hoặc ― tế*. Dâng của tế lễ, làm việc tế lễ; của dùng mà tế.
+- *Điện ― vật*. Sắm lễ vật.
+- *Tạm dùng ― vật*. Dùng đỡ vật chỉ làm của lễ; tiếng xin ai khăng chịu lấy vật mình dâng.
+- *― cưới*. Phép cưới, lễ vật dùng mà cưới.
+- *― hỏi*. Lễ phép trong khi đi hỏi lễ ; đi hỏi.
+- *― tân quan*. Lễ vật măng quan mới đáo nhậm.
+- *― ra mắt*. Lễ đi viếng ai, lễ tới lần đầu cho biết nhau. (thường nói về sự nhà trai đi viếng nhà gái).
+- *― mọn*. Lễ vật nhỏ mọn, không đáng là bao nhiêu.
+- *― lớn*. Lễ vật trọng, đáng nhiều tiền; ngày vui mầng lớn, làm lễ phép nhiều.
+- *― thần*. Làm lễ kính trọng vì thần, hoặc tạ thần.
+- *― tổ*. Làm lễ tạ ơn ông tổ nghề nghiệp mình, (thường nói về tổ thầy thuốc).
+- *― tiên sư*. Làm lễ kính trọng, hoặc tạ ơn ông tổ bày nghề gì ra trước.
+- *― đất*. Cúng thần đất đai.
+- *― thành*. Làm các lễ rồi; tiếng xướng rằng: Việc lễ đã an thành.
+- *― tắt*. id.
+- *― bộ thượng thơ*. Quan thượng thơ bộ lễ.
+- *Thất ―*. Trái lễ, không phải lễ, không nhẩm lễ.
+- *Bỏ ―*. Bỏ qua lễ phép mà không làm, hoặc không giữ.
+- *Vô ―*. Tiếng mắng người không giữ lễ phép.
+- *Phi ―*. Không phải là lễ phép, không nhằm lễ phép, trái phép.
+- *Miễn ―*. Cho khỏi giữ phép, tiếng xin châm chế đừng bắt phép, hoặc xin chịu lỗi vì không giữ phép.
+- *Sinh ―*. Bày sắm lễ vật, sinh bày lễ cưới.
+- *Hành ―*. Cứ theo lễ mà quì lạy, (đồng nghĩa với tiếng làm lễ).
+- *Sách ―*. Sách dạy việc lễ.
+- *Kinh ―*. Một bộ sách trong ngũ kinh, dạy về việc lễ.
+- *Châu ―*. Lễ chế nhà Châu.
+- *Khúc ―*. Tên sách dạy về việc lễ.
+- *法 不 加 於 君 子 不 执 於 小 人 Pháp bất gia ư quân tử, ― bất chấp ư tiểu nhơn*. Người quân tử khôn ngoan, biết đủ phép, thì chẳng còn nài sự chi thêm; đứa tiểu nhơn dại dột không biết lễ, thì chẳng phải chấp nhứt, chẳng lễ bất thiếu.
+- *Thành ―*. Làm đủ lễ, xong xuôi theo việc lễ.
+- *Đủ ―*. id.
+- *Làm ―*. Dâng lễ Misa. (Từ đây cho đến cùng chữ này, nói về việc trong đạo Thiên-chúa).
+- *Chầu ―.* 
+- *Xem ―.* 
+- *} Chầu chực lễ Misa.*
+- *Rước ―.* 
+- *Chịu ―.* 
+- *} Chịu lấy mình Thánh–chúa.*
+- *Giảng ―*. Giảng kinh sách, lễ phép, trong khi làm lễ.
+- *Ngày ―*. Ngày có việc lễ nhạc.
+- *― lạy*. Cũng về lễ trọng.
+- *― hàng*. Lễ thường.
+- *― cả*. Lễ trọng, lễ lớn.
+- *― tro*. Lễ xức tro nhằm ngày thứ tư.
+- *― đèn*. Các ngày lễ trong tuần thánh.
+- *― lá*. Lễ phát lá nhằm ngày chúa nhựt.
+- *Bánh ―*. Bánh dùng mà tế lễ.
+- *Nước ―*. Nước làm phép, (thường kêu là nước thánh).
+- *Tế ―*. Dâng lễ tế.
+- *Hát ―*. Hát kinh trong khi làm lễ.
+- *Giúp ―*. Giúp cho thầy cả, trong khi làm lễ.
+- *Học trò giúp ―*. Học trò giúp về việc làm lễ.

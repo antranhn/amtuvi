@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/am-c-am2/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/am-c/"}
 ---
 
 暗 Ám. _c_.
