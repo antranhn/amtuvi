@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/ay-n/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/ay-n-3/"}
 ---
 
 意 Ấy. _n_.
