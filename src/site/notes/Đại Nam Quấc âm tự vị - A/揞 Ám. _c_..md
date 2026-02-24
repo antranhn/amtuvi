@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/am-c/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/am-c-am/"}
 ---
 
 揞 Ám. _c_.
