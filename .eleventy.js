@@ -732,7 +732,33 @@ module.exports = function (eleventyConfig) {
   // ================================
   // CẤU HÌNH INPUT / OUTPUT
   // ================================
+const path = require("path");
 
+function getUnicodeSlug(str) {
+  if (!str) return "";
+  const firstChar = str.trim()[0];
+  return firstChar.codePointAt(0).toString(16);
+}
+
+eleventyConfig.addGlobalData("permalink", (data) => {
+
+  if (!data.page.inputPath.includes("Đại Nam Quấc âm tự vị - A")) {
+    return data.permalink;
+  }
+
+  const fileName = path.basename(data.page.inputPath, ".md");
+
+  const unicode = getUnicodeSlug(fileName);
+
+  const slug = fileName
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-zA-Z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .toLowerCase();
+
+  return `/dai-nam-quac-am-tu-vi-a/${slug}-${unicode}/`;
+});
 return {
 dir: {
 input: "src/site",
