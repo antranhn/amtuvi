@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/ay-n/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/ay-n-4/"}
 ---
 
 懓 Áy. _n_.
