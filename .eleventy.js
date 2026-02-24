@@ -726,13 +726,14 @@ function createUniqueSlug(data) {
   return `${clean}-${hash}`;
 }
 
-eleventyConfig.addGlobalData("permalink", (data) => {}) {
-  // 🔐 Guard tuyệt đối
+eleventyConfig.addGlobalData("permalink", (data = {}) => {
+
+  // 🔒 Guard tuyệt đối
   if (!data.page || !data.page.inputPath) {
     return;
   }
 
-  // Chỉ áp dụng cho notes
+  // Chỉ áp dụng cho thư mục notes
   if (!data.page.inputPath.includes("notes")) {
     return;
   }
@@ -748,6 +749,7 @@ eleventyConfig.addGlobalData("permalink", (data) => {}) {
   });
 
   return `/dai-nam-quac-am-tu-vi-${letterSlug}/${slug}/index.html`;
+
 });
 
   const slug = createUniqueSlug(data);
