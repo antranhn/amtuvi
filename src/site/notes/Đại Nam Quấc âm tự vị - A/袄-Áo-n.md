@@ -1,0 +1,65 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/ao-n/"}
+---
+
+袄 Áo. _n_.
+
+Đồ bận trên; làm da, bao bọc.
+
+- _— nu_. Áo nhuộm màu đen vàng; màu áo thầy chùa.
+- _— dòng_. Áo dài các thầy dòng bận.
+- _— thùng_. Áo nhuộm màu hùn hùn.
+- _— giáp_. Áo chiến, che thân trước thân sau có dát đồng, sắt, hoặc kết từ miếng như vảy trút.
+- _— chế_. Áo tang, chế cắt theo lệ: áo vải xổ trôn, cha trở đàng sống ra, mẹ trở sống vô.
+- _— bực_. Áo chế. id.
+- _錦 袍 — cẩm bào_. Áo chầu.
+- _龍 震 — long chấn_. áo quan quân[đính chính 2].
+- _黄 袍 — huình bào_. Áo vua mặc toàn sắc vàng.
+- _— long bào_. id.
+- _— nhặm_. Áo thầy tu.
+- _— tơi_. Áo kết bằng lá, để che mưa.
+- _雙 開 — song khai_. Áo xẻ vạt trước, vạt sau.
+- _雲 肩 — vân kiên_. Áo trên vai có may cặp nĩ xanh nĩ đỏ như nuộc mây. Áo quân lính bận.
+- _— dấu_. Áo lính có làm dấu đỏ, xanh, vân vân.
+- _— lá_. Áo vắn không tay.
+- _— lá sen_. Áo có kết thêm tại cổ một tấm vải, hàng, giống hình lá sen hoặc tay áo có xếp lá sen.
+- _— tràng_. Áo rộng dài, dùng khi làm lễ gì.
+- _日 平 — nhựt bình_. Áo thầy sãi, mụ vãi hay mặc, cũng là áo xẻ cổ.
+- _— chớn_. Áo bậu nhiều cái so le.
+- _— cổ giữa_. Áo gài nút giữa vạt trước.
+- _— lót_. Áo bận trong. Áo có may thêm một lớp trong.
+- _— kép_. id.
+- _— chít_. Áo chẹt vắn.
+- _— chiếc_. Áo thường, áo bận lẻ.
+- _— bả_. Áo vải thô.
+- _員 領 — viên lảnh_. Áo cổ trịt, cổ tròn, cổ kiềng, cổ mảng. Áo không bâu.
+- _— cổ mảng_. Áo cổ tròn mà có may cặp,
+- _— cầu_. Áo may bằng da nách chồn. 集 腋 成 裘 Tập dịch thành cầu. Góp da nách chồn mà làm áo; chỉ nghĩa là góp nhóp nhiều chỗ mới làm nên vốn lớn.
+- _— cặp_. Áo bận đôi cái vô một.
+- _袈 裟 — ca sa_. Áo lễ thầy chùa.
+- _Nút —_. Búp tròn gài vào khuy, làm bằng xương, bằng thau vân vân.
+- _Dải —_. Thẻ may bằng hàng giẻ để mà cột vạt áo.
+- _Thân —_. Nguyên khổ áo, cả kích tấc bao lấy cái mình, có thân trước thân sau.
+- _Thùng —_. id.
+- _Vạt —_. Một thân áo.
+- _— rộng kích, hẹp kích_. Khổ áo rộng thân hay là hẹp thân.
+- _Cổ —_. Chỗ khoét cho vừa cái cổ. Ván khoét cổ áo, thì là đầu ván khoét nữa vành để cho nó ôm lấy cây tròn, ngậm lấy cột.
+- _Khuy —_. Dải tròn may xấp cho có thế gài nút.
+- _Bâu —_. Miếng giẻ hàng may đơm theo cổ áo.
+- _Hò —_. Vạt tra nút, đánh gãy như hình mỏ chim; mỏ hò, vạt hò.
+- _Đinh —_. Miếng rẻo may cặp theo nách áo, tay áo. May đinh tà.
+- _Chéo —_. Góc vạt áo.
+- _Gấu —_. id.
+- _Tà —_. Chéo vạt áo, phía dưới chót, thường may kèm thêm một miếng hàng giẻ khác, cho nó khoe ra.
+- _Trôn —_. Phía chót vạt áo, thường may xấp lại một lớp.
+- _Thay quần đổi —_. Cuộc đổi dời, cuộc vợ chồng để bỏ nhau.
+- _— quần_. Đồ bận trên, đồ bận dưới. Nói chung cả đồ bận.
+- _— mảo_. Đồ phẩm phục; đồ bận lịch sự.
+- _Mặc —_. Tròng áo vào mình.
+- _Bận —_. id.
+- _Thay —_. Đổi áo, bận áo khác.
+- _Làm —_. Làm da bao ngoài. Làm áo thuốc hoàn.
+- _Cắt —_. Cắt hàng giẻ y theo thước tấc cho đủ khuôn tuồng cái áo.
+- _Ra —_. Cổi áo.
+- _Xuống —_. Cổi áo cột ngang lưng.
+- _Cỏ nụ —_. Cỏ chỉ thiên. Vị thuốc trị chứng nhức đầu.

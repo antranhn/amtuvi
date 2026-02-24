@@ -1,0 +1,68 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-c/ca-n/"}
+---
+
+### 𩵜 Cá. n. 
+Loài ở dưới nước; cuộc với nhau.
+
+- ― mú. id. (Tiếng đôi); thứ cá tròn mình, múp đầu múp đuôi mà vắn, cũng gọi là cá bống mú; mập như con cá bong mú, thì chỉ nghĩa là mập tròn.
+- ― sông. Các thứ cá ở sông; như là:
+- ― soát. Thứ cá miệng lớn mình nhỏ, không vảy, hay ăn phẩn người ta. Tiếng nói miệng cá soát thì hiểu là miệng lớn lắm.
+- ― dứa. Cũng về một loại với cá soát mà lớn con, ít ăn tạp.
+- ― trèn. Thứ cá giẹp mình mà trắng, có trèn
+- trâu, trèn thước, trèn giấy, nhiều thứ. Trèn trâu lớn mà đen, thịt không ngon.
+- ― phèn. Thứ cá tròn mình, nhỏ con, hay ăn bọt nước, nhỏ vảy, mình vàng vàng.
+- ― chốt. Thứ cá nhỏ có hai cái ngạnh.
+- ― lòng tong. Thứ cá con con đi cả bầy mà hay ăn tạp. Rút rĩa như cá lòng tong. Tiếng nói lòng tong, cá chốt, thì là tiếng chê người hay rúc rĩa, hay ăn vặt.
+- ― lăng. Cũng về loài cá chốt mà lớn con.
+- ― ngát. Cũng về một loài cá lăng mà lớn hơn.
+- ― úc. Cũng về một loài mà có ngạnh dài.
+- ― biển. Các thứ cá ở biển:
+- ― bẹ. Thứ cá giẹp mình, to vảy có nhiều phấn trắng, cùng nhiều xương ngang.
+- ― chim. Thứ cá giẹp, giống hình con chim.
+- ― rựa. Thứ cá dài giống lưỡi rựa.
+- ― thu. Thứ cá lớn không vảy, nước da xanh xanh, chính là một thứ cá ngon, nó cũng có nhiều giống là thu ảu, thu lá, đều nhỏ con.
+- ― gún. Cũng về loại cá thu.
+- ― mòi. Thứ cá giẹp mình mà nhỏ, có nhiều vảy, nhiều xương mà béo thơm.
+- ― ngừ. Thứ cá đỏ thịt, và có giăm có lớp phân biệt.
+- ― chét. Thứ cá lớn con, nhỏ vảy, cũng về hạng cá ngon.
+- ― đồng. Các thứ cá ở bưng ở đồng.
+- ― bông. Thứ cá tròn dài, mình có hoa mà lớn.
+- ― lóc. Thứ cá tròn dài, da đen, hay uốn mình lóc tới, cho nên mới đặt tên ấy.
+- ― tràu. Cũng về loại cá lóc mà nhỏ con.
+- ― trê. Thứ cá không vảy nhiều nhớt, có ngạnh hai bên mép.
+- ― rô. Thứ cá vắn mình mà vảy cứng, chữ gọi là quá sơn ngư 過 山 魚.
+- ― sặc. Thứ cá giẹp mình mà vảy nhỏ.
+- ― nàng hai. Thứ cá giẹp mình mà dài cùng cả xương.
+- ― khô. Cá xẻ khô, phơi khô.
+- ― mặn. Cá muối.
+- ― tươi. Cá mới lên khỏi nước, cá còn tươi tốt. Thường nói về cá biển.
+- ― ươn. Cá chết đã lâu, hoặc đã bở thịt.
+- ― nước duyên ưa. Duyên gặp gở may mắn.
+- ― rồng rồng. Con cá tràu mới nở (về hạng cá đồng.) Vởn vơ không làm công chuyện, thường gọi là rồng rồng.
+- ― chậu chim lồng. Cuộc lúng túng.
+- Thơ ―. Tin thơ.
+- Tin ―. id.
+- Mắt ―. Xương thịt gio ra hai bên bàn chơn, nhằm chỗ nối với ống chơn.
+- ― ván. Tra một miếng cây hai đầu có hình đuôi cá mà câu chỗ ván nứt nẻ cho khít khao.
+- Con ―. Khúc cây câu ấy.
+- Vảy ―. Những miếng nhỏ nhỏ mà cứng, đóng ngoài da con cá.
+- Con mắt có vảy ―. Con mắt có ván trắng như vảy cá.
+- Vi ―. Hai cái vè con cá nhờ đó mà lội.
+- Bắt ― hai tay. Ham hố thái quá.
+- Kho ―. Dụng đồ gia vị mà nấu con cá.
+- Đánh ―. Đi lưới cá.
+- Tát ―. Tát nước cho cạn mà bắt cá.
+- Xúc ―. Dùng vợt, rổ mà hớt con cá.
+- Thả ―. Thả cá xuống nước; thả cá đi; phóng sanh con cá.
+- Rộng ―. Bỏ cá vào thùng vào ghè, đổ nước mà giữ lấy nó.
+- Nậu hàng tôm hàng ―. Những đứa hổn hào không biết lễ phép. Thường nói về đờn bà làm nghề buôn bán tôm cá.
+- Bặt tin nhàn ―. Vắng tin tức, bặt tin tức.
+- Đuôi ―. Vật chi giống cái đuôi con cá. Thường nói về đồ tô, đúc, chạm trổ,
+- Mang ―. Cái mang con cá. Gạch đá xây hai bên cữa thành giống hình hai cái mang con cá.
+- Xỏ ―. Lấy dây xỏ vào mang con cá mà xách cho dễ.
+- Thở ―. Lấy hơi lên mà thở. Mệt nhọc lắm.
+- Dan ―. Dan ra, tránh đi. Con nít đánh lộn, mà mình đứng dan —!
+- Làm ―. Đánh vi, đánh vảy con cá mà làm thịt.
+- ― sẩy ― lớn. Con cá sẩy không ai ngó thấy, muốn nói là cá lớn cũng được.
+- ― cuộc. Cuộc với nhau, đố nhau.

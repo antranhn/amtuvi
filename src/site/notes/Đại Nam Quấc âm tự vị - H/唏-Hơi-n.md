@@ -1,0 +1,82 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-h/hoi-n/"}
+---
+
+唏 Hơi. *n*.
+
+Khí cất lên, khí bay ra; mùi, mỏi, bộ tịch, cách thể.
+
+- *― hám*. id. Tốt hơi hám, thì là tốt tiếng, ấm tiếng, hơi hám tốt, nói về tiếng hát, tiếng đọc. Nói hơi hám, thì là nói xa gần.
+- *― thở*. Khí thở ra thở vào.
+- *― nước*. Khí trong nước bay lên, cất lên.
+- *― đất*. Khí dưới đất bay lên, mùi đất.
+- *― gió*. Sự thể gió quạt, gió đưa, gió thổi tới.
+- *― nghìn*. Hơi thở dài, hơi thở to, cũng là tiếng đôi chỉ nghĩa là hơi.
+- *Âm ―*. Âm tiếng, tốt tiếng, hơi ra ấm áp.
+- *Tốt ―*. id.
+- *Tắt ―*. Hết hơi, chết.
+- *Hết ―*. Không còn hơi thở, chết; mệt nhọc hết sức.
+- *Mệt hết ―*. Mệt quá chừng. Mệt hết hơi hết nghìn, cũng là mệt quá.
+- *Mòn ―*. Gần hết hơi, gần chết.
+- *Mòn ―*. id. Mòn hơi ba tấc, phủi không muốn đều.
+- *Đuôi ―*. id.
+- *Mỏi ―*. Mệt nhọc quá.
+- *Nặng ―*. Hơi ra khó chịu, thường nói về hơi kể chết. Mỏi hơi, mệt nhọc, có tiếng nói: Dạy nó nặng hơi, mỏi cổ, thì chỉ là đứa khó nói khó dạy, có dạy nó thì phải mệt nhọc.
+- *Nhẹ ―*. Hơi ra dễ chịu, hơi không gắt.
+- *Nhọc ―*. Mỏi hơi, làm cho phải mệt nhọc, như là phải nói, phải dạy v. v.
+- *Vắn ―*. Hơi thở vần.
+- *Vắng ―*. Mất hơi, không có hơi gì. Vắng hơi cha nó thì nó khóc.
+- *To ―*. Hơi thở to.
+- *Dài ―*. Hơi thở dài. Lặn dài hơi.
+- *Thẳng ―*. Hơi thở trọn, trọn một hơi.
+- *― mệt*. Hơi thở cực khổ hoặc tức tưởi; coi bộ mệt.
+- *― khỏe*. Hơi thở thong thả không bức, coi bộ khỏe.
+- *Một ―*. Luôn một hơi thở, một đạc, một giọt, một cấp, một hồi.
+- *Làm một ―*. Làm luôn một đạc.
+- *Nói một ―*. Nói một giọt.
+- *Đọc một ―*. Đọc luôn một thể.
+- *Hút một ―*. Hút một cái.
+- *Chạy một ―*. Chạy luôn một đạc.
+- *Chẳng mấy ―*. Chẳng có sức gì.
+- *Bao ―*. Có sức lực bao nhiêu!.
+- *Có ―*. Có mùi, thường nói về mùi thối.
+- *Có ― tanh tanh*. Tiếng nói chơi, chỉ nghĩa là có mòi khá, có tiền có bạc, một hai ít.
+- *Bay ―*. Bay mùi gì, bay hơi nước.
+- *Ra ―*. id.
+- *Xì ―*. Bắn mùi thối, thường nói về hơi trong quan cửu.
+- *Lên ―*. Bay hơi lên, hơi xông lên. Cơm còn lên hơi, thì là cơm sốt.
+- *Đánh ―*. Hít cho biết hơi tại đâu mà bay đến, nghe cho biết hơi bay phía nào.
+- *Hít ―*. Đem hơi vào lỗ mũi.
+- *Bắt ―*. Nghe thử cho biết hơi tại đâu. Bắt được hơi, thì là nghe được hơi. Chó bắt được hơi chồn.
+- *Nín ―*. Nín mũi không thở. Nín hơi mà lặn.
+- *Lây ―*. Rán hơi cho dài; lấy thế, lấy tiếng ai.
+- *Dựa ―*. Dựa thế, lấy tiếng ai.
+- *Nhờ ―*. Nhờ tiếng ai, nhờ sức ai.
+- *Thăm ―*. Thử cho biết, (khôn dại, tốt xấu, giàu nghèo, sang hèn thể nào).
+- *― xấc*. Coi bộ xấc.
+- *Nói ― xấc*. Nói ra bộ xấc xược.
+- *Ở ― kiêu*. Ở bộ kiêu căng.
+- *Ỷ ― giàu sang*. Cậy thế mình giàu sang.
+- *Lạ ―*. Lạ mùi, khác mùi. Chó nghe lạ hơi thì sủa.
+- *Quen ―*. Quen mùi, quen lỗ mũi, chịu mùi nhau, biết hơi nhau. (Vợ chồng quen hơi).
+- *― bùn*. Khí dưới bùn bay lên, mùi bùn.
+- *― nắng*. Khí nắng tán ra.
+- *Thở không ra ―*. Mệt nhọc thái quá.
+- *Chuyền ―*. (Coi chữ chuyền).
+- *Nói chuyền ―*. Tiếp hơi mà nói, lấy hơi mà nói, nói luôn luôn không dứt.
+- *Hở ―*. Mở hơi, thở ra đặng, nhẹ nhàng khỏi lo sợ.
+- *Mở ―*. id.
+- *Ngột ―*. Bí hơi thở không đặng.
+- *Bịt ―*. id. Hơi không thông, khí không thông.
+- *Nghẹt ―*. id.
+- *― vàng*. Gió mát, gió tây.
+- *― nực*. Khí nực nội, nóng nảy, thường làm cho đổ mồ hôi.
+- *Tăm ―*. Tăm dạng, hơi tiếng, tin tức. Không nghe được tăm hơi nó ở đâu.
+- *Rán ―*. Rán sức lấy hơi cho dài. Rán hơi rán sức.
+- *― sức đâu mà chịu*. Tiếng than không còn sức lực nữa.
+- *Nó ―Đầy hơi, hơi trong bụng đầy lên, làm cho nó không biết đối.* 
+- *Hầm ―*. Hơi bí lại khó chịu, (thường nói về hơi nóng).
+- *Nghe ―*. Nghe, đặng mùi gì, biết đặng sự thể. Nghe hơi nó khá giàu.
+- *Xổ ―*. Cho hơi ra làm cho hơi bắn ra.
+- *Xả ―*. id.
+- *Quạt ―*. Quạt phớt phớt, làm bộ phong lưu.
