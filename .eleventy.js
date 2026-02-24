@@ -7,7 +7,6 @@ const tocPlugin = require("eleventy-plugin-nesting-toc");
 const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier-terser");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const path = require("path")
 
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
@@ -33,11 +32,6 @@ function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
 function getAnchorLink(filePath, linkTitle) {
   const { attributes, innerHTML } = getAnchorAttributes(filePath, linkTitle);
   return `<a ${Object.keys(attributes).map(key => `${key}="${attributes[key]}"`).join(" ")}>${innerHTML}</a>`;
-// Lấy unicode hex của ký tự đầu tiên (thường là chữ Hán)
-function getUnicodeSlug(str) {
-  if (!str) return ""
-  const firstChar = str.trim()[0]
-  return firstChar.codePointAt(0).toString(16)
 }
 
 function getAnchorAttributes(filePath, linkTitle) {
@@ -422,7 +416,6 @@ module.exports = function(eleventyConfig) {
       if (!content.match(calloutMeta)) {
         continue;
       }
-module.exports = function (eleventyConfig) {
 
       content = content.replace(
         calloutMeta,
@@ -437,9 +430,6 @@ module.exports = function (eleventyConfig) {
           const fold = isCollapsable
             ? `<div class="callout-fold"><i icon-name="chevron-down"></i></div>`
             : ``;
-  // ================================
-  // FIX PERMALINK CHO TỪ ĐIỂN HÁN NÔM
-  // ================================
 
           calloutType = callout;
           calloutMetaData = metaData;
@@ -447,7 +437,6 @@ module.exports = function (eleventyConfig) {
           return "";
         }
       );
-  eleventyConfig.addGlobalData("permalink", (data) => {
 
       /* Hacky fix for callouts with only a title */
       if (content === "\n<p>\n") {
@@ -462,10 +451,7 @@ module.exports = function (eleventyConfig) {
       blockquote.setAttribute("data-callout", calloutType.toLowerCase());
       calloutMetaData && blockquote.setAttribute("data-callout-metadata", calloutMetaData);
       blockquote.innerHTML = `${titleDiv}${contentDiv}`;
-    // Chỉ áp dụng cho folder notes của Đại Nam
-    if (!data.page.inputPath.includes("Đại Nam Quấc âm tự vị - A")) {
-      return data.permalink
-}
+    }
   }
 
   eleventyConfig.addTransform("callout-block", function(str) {
@@ -476,7 +462,6 @@ module.exports = function (eleventyConfig) {
     transformCalloutBlockquotes(parsed.querySelectorAll("blockquote"));
     return str && parsed.innerHTML;
   });
-    const fileName = path.basename(data.page.inputPath, ".md")
 
   function fillPictureSourceSets(src, cls, alt, meta, width, imageTag) {
     imageTag.tagName = "picture";
@@ -511,16 +496,7 @@ module.exports = function (eleventyConfig) {
       />`;
     imageTag.innerHTML = html;
   }
-    // Lấy chữ đầu tiên (chữ Hán)
-    const unicode = getUnicodeSlug(fileName)
 
-    // Tạo slug âm đọc (bỏ dấu tiếng Việt)
-    const slug = fileName
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .replace(/[^a-zA-Z0-9]+/g, "-")
-      .replace(/^-+|-+$/g, "")
-      .toLowerCase()
 
   eleventyConfig.addTransform("picture", function(str) {
     if (!isMarkdownPage(this.page.inputPath)) {
@@ -725,44 +701,13 @@ module.exports = function (eleventyConfig) {
       singleTags: ["link"],
     },
   });
-    return `/dai-nam-quac-am-tu-vi-a/${slug}-${unicode}/`
-  })
 
   userEleventySetup(eleventyConfig);
-  // ================================
-  // CẤU HÌNH INPUT / OUTPUT
-  // ================================
-const path = require("path");
 
-function getUnicodeSlug(str) {
-  if (!str) return "";
-  const firstChar = str.trim()[0];
-  return firstChar.codePointAt(0).toString(16);
-}
-
-eleventyConfig.addGlobalData("permalink", (data) => {
-
-  if (!data.page.inputPath.includes("Đại Nam Quấc âm tự vị - A")) {
-    return data.permalink;
-  }
-
-  const fileName = path.basename(data.page.inputPath, ".md");
-
-  const unicode = getUnicodeSlug(fileName);
-
-  const slug = fileName
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/[^a-zA-Z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .toLowerCase();
-
-  return `/dai-nam-quac-am-tu-vi-a/${slug}-${unicode}/`;
-});
-return {
-dir: {
-input: "src/site",
-output: "dist",
+  return {
+    dir: {
+      input: "src/site",
+      output: "dist",
       data: `_data`,
     },
     templateFormats: ["njk", "md", "11ty.js", "canvas"],
@@ -771,8 +716,3 @@ output: "dist",
     passthroughFileCopy: true,
   };
 };
-      includes: "_includes",
-      layouts: "_layouts"
-    }
-  }
-}
