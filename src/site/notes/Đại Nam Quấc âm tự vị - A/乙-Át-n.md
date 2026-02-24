@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/at-n/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/yi-at-n/"}
 ---
 
 乙 Át. _n_.
