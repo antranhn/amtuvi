@@ -726,42 +726,37 @@ function createUniqueSlug(data) {
   return `${clean}-${hash}`;
 }
 
-eleventyConfig.addGlobalData("permalink", (data = {}) => {
+eleventyConfig.addGlobalData("eleventyComputed", {
+  permalink: (data = {}) => {
 
-  if (!data.page || !data.page.inputPath) {
-    return;
+    if (!data.page || !data.page.inputPath) return;
+
+    if (!data.page.inputPath.includes("notes")) return;
+
+    const pathParts = data.page.inputPath.split("/");
+    const letterFolder = pathParts[pathParts.length - 2];
+
+    const letterSlug = slugify(letterFolder, {
+      lower: true,
+      strict: true
+    });
+
+    const rawFileName = data.page.fileSlug;
+
+    const hanChar = rawFileName.split(" ")[0];
+    const vnPart = rawFileName.replace(hanChar, "").trim();
+
+    const slug = slugify(vnPart, {
+      lower: true,
+      strict: true
+    });
+
+    const finalSlug = `${slug}-${hanChar}`;
+
+    return `/dai-nam-quac-am-tu-vi-${letterSlug}/${finalSlug}/`;
   }
-
-  if (!data.page.inputPath.includes("notes")) {
-    return;
-  }
-
-  const pathParts = data.page.inputPath.split("/");
-  const letterFolder = pathParts[pathParts.length - 2];
-
-  const letterSlug = slugify(letterFolder, {
-    lower: true,
-    strict: true
-  });
-
-  // ===== THÊM Ở ĐÂY =====
-  const rawFileName = data.page.fileSlug;
-
-  const hanChar = rawFileName.split(" ")[0]; // 乙
-  const vnPart = rawFileName.replace(hanChar, "").trim();
-
-  const slug = slugify(vnPart, {
-    lower: true,
-    strict: true
-  });
-
-  const finalSlug = `${slug}-${hanChar}`;
-  // =======================
-
-  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${finalSlug}/index.html`;
-
 });
-
+  
 /* ===== END FIX ===== */
   return {
     dir: {
