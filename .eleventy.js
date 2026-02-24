@@ -752,18 +752,6 @@ eleventyConfig.addGlobalData("permalink", (data = {}) => {
 
 });
 
-  const slug = createUniqueSlug(data);
-  const pathParts = data.page.inputPath.split("/");
-  const letterFolder = pathParts[pathParts.length - 2];
-
-  const letterSlug = slugify(letterFolder, {
-    lower: true,
-    strict: true
-  });
-
-  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${slug}/index.html`;
-});
-
 /* ===== END FIX ===== */
   return {
     dir: {
