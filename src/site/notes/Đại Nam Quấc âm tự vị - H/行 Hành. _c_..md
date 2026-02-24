@@ -1,0 +1,62 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-h/hanh-c/"}
+---
+
+行 Hành. _c_.
+
+Làm ; đi, làm ra thế gì.
+
+- _文 ― văn_. Giấy gởi đi ; thơ từ gởi đi ; làm văn.
+- _李 ― lý_. Đồ đi đường.
+- _步 Bộ ―_. Đi bộ ; kể đi đường, tục nói trại là bộ hiền.
+- _通 Thông ―_. Trống trải, thong thả ; mái hiên để trống chung quanh nhà.
+- _Giấy thông ―_. Giấy phép cho đi đâu.
+- _Nói ―_. Nói sau lưng, nói chuyện kể khác.
+- _Ngủ ―_. Năm phép, năm cái gốc biến hoá là kim, mộc, thuỷ, hoả, thổ.
+- _Ngủ ― tinh_. Năm vì sao thuộc về ngủ hành là sao kim, sao mộc, sao thuỷ, sao hoả, sao thổ.
+- _Tu ―_. Kể bỏ việc đời mà tu thân.
+- _Bệnh ―_. Bệnh dấy lên làm cho mình phải đau đớn. Cơn bệnh hành.
+- _Trời ―_. Trời làm cho khốn khổ ; trời hành phả.
+- _― binh_. Đem binh đi ; hành tội theo việc binh.
+- _― dinh_. Dinh trại cất cho vua ngự dọc đàng.
+- _― cung_. Đền thờ vua. Cung môn cất dỡ cho vua ngự.
+- _― tội_. Làm cho phải cực khổ ; trị tội. Trời hành tội nó, chỉ nghĩa là Trời hành phạt nó.
+- _― phạt_. Bắt phạt, làm tội, làm cho phải cực khổ.
+- _遣 ― khiển_. Chức quan điều binh. Vị thần coi việc gia đạo, mỗi tới cuối năm, phải làm sổ sách mà tâu Ngọc hoàng ; đến nữa đêm ba mươi là giao việc cho ông khác kêu là giao thừa.
+- _Phát ―_. Đi, ra đi, ( thường nói về đám ma). Quan cữu mới phát hành.
+- _決 ― quyết_. Xử tử tù, chém tù tử.
+- _Xuất ―_. Ra đi, đi.
+- _Thí ―_. Làm theo, vâng theo mà làm.
+- _― niên_. Năm mình đương sống, tuổi tác trong năm nào. Hành niên ngủ thập, nhi tri tứ thập cửu chi phi. - 年 五 拾 而 知 四 拾 九 之 非.
+- _Đại ―_. Hoàng đế mới băng. Hiệu vua An-nam kẻ lấy nhà Đinh kêu là Lê đại hành.
+- _― lễ_. Làm lễ, làm theo lễ phép ; quì lạy.
+- _― sự_. Làm việc, làm theo chức phận mình. Đương nhiên hành sự thì là làm việc theo niên phận mình, nghĩa là năm mình có phép mà làm các việc. ( Thường nói về xã trưởng, hương chức).
+- _― chánh_. Làm việc chánh, nghĩa là cai quản, trị lý,như việc từ tụng, việc binh thuế. v. v ( nói về quan ).
+- _Khai ―_. Đi. Thuyền mới khai hành.
+- _Ban ―_. (Coi chữ ban).
+- _Tuỳ ―_. Đi theo.
+- _Tùng ―_. Đi theo sau; dân làng cấp giúp việc cho cai tổng, cũng gọi là tùng giả.
+- _― canh_. Đánh tuổi, tính tuổi.
+- _― tinh_. Sao chạy.
+- _程 -trình_. Đường đi.
+- _― tẩu_. Học tập việc quan, trường học tập việc quan.
+- _― tráng_. Đem vào hộ dân tráng, bắt phải đứng tráng ; đăng tịch.
+- _言 相 反 Ngôn ― tương phản_. Lời nói việc làm nghịch nhau. ( Phải đọc là hạnh).
+- _A ― ác nghiêp_. Việc làm dữ, nghiệp đư; bất nhơn bạc ác. ( tiếng tục).
+- _三 人 同 必 有 我 師 焉 Tam nhơn đồng ― tất hữu ngả sư diêng_. Ba người đồng đi, ắt có kẻ làm thầy ta vậy. Trong ba người cũng phải có một người tốt, làm ích cho ta được.
+- _Vì ―_. Tiền đặt vì ; số tiền thua thiếu, đặt ra cho nhớ.
+- _― thất_. Số tiền mình thua người ta đặt ra.
+- _乞 ― khất_. Ăn mày.
+- _― đạo_. Đi khuyên giáo, đi xin, ( nói về đạo sĩ ).
+- _― thuyền_. Đi thuyền.
+- _船 騎 馬 三 分 命 -thuyền kị mã tam phân mạng_. Đi thuyền, cỡi ngựa, ba phân mạng, chỉ nghĩa là sự đi thuyền cỡi ngựa rất hiểm nghèo cho mạng sống.
+- _Bản quan ―_. Bản in của quan.
+- _Bệnh thiêu-_. Bệnh Trời làm. Bệnh hay lây như thi khí, cùng đậu độc.
+- _上 下 效 Thượng ― hạ hiệu_. Trên làm dưới bắt chước.
+- _-thương phản mại_. Đi buôn bán.
+- _-nhơn_. Thông ngôn.
+- _― dịch_. Làm công chuyện.
+- _― thân hoại thể_. Phá mình, làm cho ra thân cực khổ.
+- _Thế ―_. Đi thế, làm thế, thế cho.
+- _Thừa ―_. Vâng theo mà làm. Thừa hành chi hạ, kể bề dưới vâng làm theo.
+- _-kiếp_. Ăn cướp.

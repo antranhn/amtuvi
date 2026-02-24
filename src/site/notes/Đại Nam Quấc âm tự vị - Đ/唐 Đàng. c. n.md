@@ -1,0 +1,140 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-d/dang-c-n/"}
+---
+
+唐 Đàng. c. n
+
+(đường). Nhà Đảng; đàng sá; dấu rẽ hai hoặc nứt nể dài; tiếng kêu kể vật có dây có sợi
+
+- _― sá_. Tiếng đôi chỉ nghĩa là đàng
+- _― đi_. Lối người ta đi, lối qua lại
+- _― cái_.
+- _― lộ_.
+- _― sứ_.
+- _― quan_. Đàng lớn rộng.
+- _― chánh_. Đàng phải theo
+- _― trẽ_. Đàng nhánh, ghé vào đâu; đường trẽ
+- _― nhánh_. id
+- _― tắt_. Đàng đi mau hơn
+- _― thảng hoẳc thẳng ―_. Đàng ngày, ngày một đàng, luôn một đàng
+- _― trường_. Đường xa xuôi
+- _― nẻo_. Đường đi, nẻo phải đi, cũng ra tiếng đôi
+- _― kiệt_. Đàng nhỏ
+- _― đắp_. Đàng đổ đất cao
+- _Đắp ―_. Đổ đất cho cao mà làm đường
+- _― rừng_. Lối đi qua giữa rừng
+- _― truông_. id
+- _― xep_. Đường hẹp, đường đi trong chỗ chật
+- _― hẻm_. id
+- _― vẽ_. Đường phải theo mà về
+- _― đê_. Đường xa xuôi, hiểm trở
+- _― chim_. id
+- _― mây_. id
+- _― dốc_. Đường qua chỗ dốc
+- _― nẻ_. Đường nứt ra, nẻ ra
+- _Nứt ―_. Có đàng nẻ ra, nẻ ra (nói về đồ sành)
+- _Có ―_. id
+- _Có ―_. id
+- _Đi ―_. Đi; đi ngoài đàng. Người đi đàng thường hiểu là người vô can
+- _Lên ―_. Ra đi
+- _Đón ―_. Ngăn đón giữa đường
+- _Chận ―_. id
+- _Dọc ―_. Dài theo đường đi
+- _Chỉ ―_. Chỉ về cho biết phải đi đường nào. Chỉ đàng mở ngõ
+- _Dẫn ―_. Đem đi
+- _Đem ―_. id
+- _Đam ―_. id
+- _Lạc ―_. Đi sai ngả
+- _Lạc ― nắm đuôi chó, lạc ngõ nắm đuôi trâu_. Trâu, chó hay nhớ đường về
+- _Nằm ―_. Sấp mình giữa đường cho quan tài qua. Trong các đám ma lớn, hễ khiêng quan tài đi thì các con cháu người chết hay nằm đàng, có ý làm việc hiếu thảo
+- _Qua ―_. Đi ngang qua, không có ý ghé, không ở lâu. Khách qua đàng cũng là người vô can, không có nghĩa quen biết
+- _Nói sang ―_. Đương nói chuyện nầy bắt sang chuyện khác; không chuyên chủ lời nói
+- _Hoang ―_. Không có chủ chốt, vất mà
+- _― điếm hoặc ― điếm_. Chính là đứa ở đàng ở điêm, xảo trá, không làm cao cách
+- _Mèo ― chó điêm_. Tiếng mắng đứa hay ở quán ở lều, ham chơi bời vậy
+- _Cùng ―_. Hết đàng đi; cùng túng, hết thế
+- _Ghe ―_. Nhiều đàng, nhiều bề
+- _Nhiều ―_. id
+- _Trăm ―_. Nhiều đàng, nhiều nồi kể chẳng xiết
+- _Đứng ―_. Tiếng mắng đứa hư hay đứng hóng, biết có một sự ngao du ngoài đàng, mà không biết tới chuyện nhà
+- _Gần ― xa ngõ_. Đàng đi thì gần, ngả vào lại xa. Nói về sự bà con gần mà không hay lân mân
+- _Ngựa chạy ― dài_. Tiếng chê người không hay giữ lời nói, nói rồi liền bỏ qua cũng như ngựa chạy xuôi một đàng
+- _Cuối ―_. Chỗ cùng đàng
+- _Đầu ―_. Chỗ đầu đàng, mỗi đàng
+- _Luôn ―_. Luôn xuôi theo một đàng
+- _Liên ―_. Liên tiếp theo một đàng, không có vật chi ngăn trở
+- _― đầu_. Phía đầu, trước đầu
+- _― đuôi_. Phía đuôi, sau đuôi
+- _― ngang_. Đàng đi ngang; đàng ngang qua đối với đàng sổ xuống hay đàng dọc
+- _― dọc_. Đàng dài đối với đàng ngang
+- _― nước_. Đàng khai cho nước chảy, đàng nước chảy
+- _― câu_. Nhợ câu
+- _― chỉ_. Đàng may; sợi chỉ
+- _― đây_. Sợi dây lớn; tiếng đàng ở đây hiểu là tiếng kêu kể vật có mối có sợi
+- _― tóc_. Rồng chưn tóc rẽ hai
+- _― ngoài_. Các tỉnh ở phía Bắc (Nói về nước An-nam)
+- _― trong_. Các tỉnh ở phía Nam
+- _― anh_. Vai anh
+- _― em_. Vai em
+- _― ngày lễ chánh_. Đàng phải đi, lễ phải theo
+- _Khác ―_. Không phải một đàng, không phải một đạo
+- _― nội_. Bên nội; về đạo Thiên Chúa
+- _― ngoại_. Bên ngoại; về đạo khác
+- _― trai_. Bên trai
+- _― gái_. Bên gái
+- _― trước_. Phía trước
+- _― sau_. Phía sau
+- _― đột_. Xông xáo, ngang ngửa, vô phép, (thường hiểu về sự ăn nói, tới lui nghênh ngang)
+- _― nhơn ngãi_. Bề nhơn ngãi mình phải theo
+- _― phước đức_. Đàng cho mình theo việc phước đức
+- _― tội lỗi_. Đàng đi theo việc tội lỗi
+- _Xa ―_. Dài đàng, ở xa cách
+- _Gần ―_. Vân đường, ở gần
+- _Đọc ―_. (Coi chữ đọc)
+- _Đọc đàng cho con nít bắt chước_.
+- _Chết ―_. Chết dọc đàng, chết trong lúc đương đi đường (cũng là tiếng rủa)
+- _Con mắt không thấy ―_. Con mắt không tỏ rõ
+- _Rờ ―_. Dò đàng mà đi, vì là không thấy
+- _Lần ―_. id
+- _Của bỏ ― bỏ sá_. Của phí lộ; của bỏ
+- _Dâm ―_. Đàng đi đây những người ta
+- _Đây ―_. id
+- _Quân lót ―_. Những quân đi tiền đạo, có ý thí cho giặc giết, làm cho giặc mổi me, mà lây thắng (Thường dùng những tử tù, tội nặng)
+- _糖 Đàng. n_. (Đường) Vật nấu bằng nước mía hoặc bằng nước cây trái gì ngọt khác.
+- _― phèn_. Đường làm ra từ miếng trắng giống như cục phèn
+- _― cát_. Đường có hột như hột cát
+- _― phổi_. Đường trở bằng tràng gà, xốp mình như lá phổi
+- _― hạ_. Đường đen, đường tự nhiên
+- _― cái_. Đường đen đặc đổ ra từ tâm
+- _― tâng_. id
+- _― con_. Con đường phèn, hay là đường phèn vụn
+- _― non_. Đường nâu chưa tới, hãy còn lỏng mà dẻo
+- _― Thao lao_. Đường táng xứ Thao-lao, (phủ Phước-tuy)
+- _― khay_. Đường trắng đổ khuôn vuông vức giống cái khay, lấy đó mà đặt tên
+- _Lò ―_. Chỗ nấu đường
+- _Đạp ―_. Cuộc dùng ống trục đôi mà cán cây mía cho ra nước chè
+- _Thắng ―_. Bỏ đường cái vào nước lã mà nấu cho chảy ra
+- _Xén ―_. Dụng tròng trắng trấng gà bỏ vào nước đường đương nấu mà gạn cho sạch đất, cho trắng nước đường
+- _Trở ―_. Lấy thứ đường nọ mà làm ra đường khác trong sạch hơn, như là trở đường phổi thì là lấy đường cát thắng lại bỏ tròng trắng trấng gà mà làm ra
+- _螳 Đàng. c_. Con chấu.
+- _― lang_. Châu chấu
+- _| 螂 捕 蟬 ― lang bộ thuyền_. Châu chấu bắt ve ve. Nghĩa là tham mà không nghĩ hậu; số là châu chấu ham chụp con ve là loài yếu đuối, chẳng dè đàng sau có chim huình tước chụp mà bắt cả đôi
+- _| 臂 當 車 ― tí đương xa_. Cảnh châu chống xe: Chẳng lường sức mình
+- _| 螂 捕 蟬 ― lang bộ thuyền_. Châu chấu bắt ve ve. Nghĩa là tham mà không nghĩ hậu; số là châu chấu ham chụp con ve là vật yếu đuối, chẳng dè đàng sau có chim huình tước chụp mà bắt cả đôi
+- _| 臂 當 車 ― tí đương xa_. Cảnh châu chống xe: Chẳng lường sức mình
+- _党 Đảng. c_. Phe, bọn, những người theo một phía.
+- _Phe ―_. id
+- _Đồ ―_. id
+- _Bè ―_. id
+- _― tỏa_. id
+- _Gian ―_. Người gian ác, bọn gian ác
+- _Ngụy ― hoặc ― ngụy_. Bọn làm loạn, làm giặc
+- _Tụ ―_. Hiệp bọn, qui rủ nhau mà làm dữ
+- _― dữ_. id
+- _― ăn cướp_. Bọn ăn cướp, kẻ cướp
+- _Hương ―_. Xóm giềng đông, chừng 500 nóc nhà
+- _鄉 | 莫 如 齒 Hương ― mạc như xỉ_. Chôn hương đảng chẳng gì trọng hơn tuổi, nghĩa là phải trọng kẻ tuổi tác
+- _― sâm_. Loại rễ thuốc
+- _宕 Đảng. c_. .
+- _Phóng ―_. Buông lung, không then tính nết
+- *Chơi. -Buông lung trong sự chơi bời, như không tiếc tiền bạc vv

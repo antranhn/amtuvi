@@ -1,0 +1,71 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-g/gio-n/"}
+---
+
+逾 Gió. _n_.
+
+Khi chuyển động chạy trên không, thường đưa hơi mát.
+
+- _― giung_. Tiếng đôi chỉ nghĩa là gió.
+- _― mây_. id.
+- _― lớn_. Gió thổi mạnh.
+- _― rao_. Gió thổi rao rao. Thổi phất qua.
+- _― hiu hiu_. Gió phất phất, thổi phớt phớt, nhẹ nhẹ.
+- _― đông_. Gió phía mặt trời mọc.
+- _― tây_. Gió phía mặt trời lặn.
+- _― đoài_. Gió tây bắc.
+- _― nam_. Gió phía nam thổi tới.
+- _― bắc_. Gió phía bắc thổi tới.
+- _― heo_. id.
+- _― đông bắc_. Gió thổi cạnh đông bắc.
+- _― chướng_. id.
+- _― nồm_. Gió thổi cạnh tây nam.
+- _― nồm nam_. Gió thổi lấn về cạnh tây nam, kêu là nam trên.
+- _― may_. Gió tây bắc có hơi lạnh.
+- _― sóc_. Gió làn về cạnh đông bắc.
+- _― xuôi_. Gió thuận.
+- _― ngược_. Gió không thuận cho người đi.
+- _― cấn_. Gió thổi lại mà thổi xiên xiên.
+- _Chạy ― cấn_. Chạy cấn, chạy xiên lá buồm.
+- _Sóng ―_. Nổi sóng, nổi gió, sông biển không yên; trời động.
+- _Mưa ―_. Và mưa và gió, trời không tạnh ráo.
+- _Mưa vải ― may_. Mưa gió liên miên lạnh lẽo. Tục nói trại là mưa vạy gió may, chỉ nghĩa là mưa gió không chừng, lạnh lẽo.
+- _Dông ―_. Gió lớn.
+- _Trận ―_. Cây gió lớn.
+- _Cây ―_. Luồng gió.
+- _Hút ―_. Chót môi thổi hơi làm cho ra tiếng.
+- _Trúng ―_. Mắc luồng gió độc làm cho sinh bệnh, hoặc phải té ngã, bất tỉnh nhơn sự.
+- _Mắc ―_. id.
+- _Xuống ―_. id.
+- _Hóng ―_. Ra ngoài gió ; hứng lấy gió.
+- _Ra ―_. Ra chỗ gió thổi, hóng gió.
+- _Xa ―_. Đồ dùng có kiên quạt gió, đề mà để lúa gạo.
+- _Quạt ―_. Quạt cho nổi gió.
+- _Nói ―_. Mới học nói, nói theo gió. (Nói về chim). Cưởng mới nói gió.
+- _Trốn ―_. Tránh cho khỏi luồng gió thổi ngay mình.
+- _― bê_. Gió thổi đưa vào đâu, bị gió đưa về một phía.
+- _― đưa_. Gió xuôi thổi đi đưa đi, thổi đông đưa.
+- _― đàn_. (coi chữ đàn).
+- _― đẩy_. id.
+- _― đánh_. Gió thổi xuôi ngược giựt giả, làm cho không yên.
+- _― thổi_. Luồng gió đi, thổi tới.
+- _Nổi ―_. Thình lình gió dậy,.
+- _Cây muốn lặng mà ― chẳng đừng_. (coi chữ đừng).
+- _Duồng ― bẻ măng_. (coi chữ duồng).
+- _Khuất ―_. Bị che áng không có gió thổi, không thông khí.
+- _Trống ―_. Gió thâu vào, không có vật chi che áng.
+- _Lặng ―_. Không có gió, êm trời.
+- _Lửng ―_. Trời dứt gió không thổi chút nào.
+- _Bặt ―_. id.
+- _Đón ―_. Dùng thuốc chỉ mà thoa ngoài da cho gió thổi theo chưn lông mà vào trong mình. Nghệ giói đón gió.
+- _Tống ―_. Phép đưa ôn thần đi theo gió, cũng gọi là tống ôn, tống quái.
+- _Cở ―_. Đồ làm ra như cái máy có thể xây, để mà coi ngọn gió trở về đâu.
+- _Bắt ―_. Lấy hai ngón tay bắt da thịt tại giữa chang mày làm cho máu nhóm cho hết nhức đầu.
+- _Ngọn ―_. Luồng gió thổi ; cây gió.
+- _― mùa_. Gió thổi cả mùa mà có một hướng. hoặc thổi luôn một bề cho tới sáu tháng.
+- _― đất_. Gió trong đất thổi ra biển.
+- _Trở ngọn ―_. Xây hướng gió.
+- _― mặt trời_. Gió ở ngay mặt trời mà thổi tới, hoặc thổi khi mặt trời mọc.
+- _― săn_. Gió thổi khá mạnh.
+- _― dịu_. Gió thổi êm ái.
+- _― lò_. Gió lòn theo chỗ hở, chổ trống mà thổi vào.

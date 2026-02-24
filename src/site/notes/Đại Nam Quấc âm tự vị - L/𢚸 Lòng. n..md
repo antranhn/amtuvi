@@ -1,0 +1,149 @@
+---
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-l/long-n/"}
+---
+
+𢚸 Lòng. *n*.
+
+Trái tim, tình ý, tâm tình, cả bộ ruột.
+
+- *― dạ*. Tâm tình, bụng dạ.
+- *Tấm ―.* 
+- *Tấc ―.* 
+- *} Cái lòng, cái tình ý, (chữ tâm chữ tấc đều dùng như tiếng kêu kể).*
+- *― đơn*. Lòng ngay, lòng thật thà.
+- *― son*. id.
+- *― thật hoặc thật ―*. id.
+- *― thành*. id.
+- *― ngây*. id.
+- *― lành*. Lòng tốt, hay làm nhơn.
+- *― nhơn*. id.
+- *― tốt*. id.
+- *― thương*. Bụng hay thương xót.
+- *― độc*. Lòng sâu thiểm, độc dữ.
+- *― muông dạ thú*. Lòng sâu độc bất nhơn, chẳng còn đạo lý.
+- *― tham*. Lòng tham lam, ham muốn thới quá.
+- *― dục*. Lòng dâm, lòng tà dâm.
+- *― gian*. Lòng gian tham quỉ quiệt, muôn lường gạt kẻ khác.
+- *― tà*. Lòng vạy vỏ.
+- *― tây*. Lòng gian ngụy.id.Cũng có nghĩa là lòng riêng tư.
+- *― rộng rãi*. Sự ăn ở rộng lớn.
+- *― không.* 
+- *― chay.* 
+- *} Lòng thanh sạch; bụng đói.*
+- *― không dạ đói*. Bụng không, bụng đói, không ăn vật gì, chưa ăn vật gì.
+- *Vui ―*. Vui vẻ trong lòng.
+- *Toại ―*. id.
+- *Đẹp ―*. id.
+- *Phỉ ―*. lấy làm vui vẻ lắm.
+- *Thỏa ―*. id.
+- *Phải ―*. Bắt phải thương yêu (người nào).
+- *Động ―*. Bắt thương yêu, tưởng nhớ.
+- *Cuồng ―*. id.
+- *Chạnh ―*. id.
+- *Mủi ―*. Hay động lòng thương nhớ.
+- *Sẵn ―*. Có sẵn lòng, vui lòng theo, cố ý.
+- *Hết ―*. Hết ý, sẵn lòng.
+- *Thật ―*. Thật tình, không phải giả dối,.
+- *Khó ―*. lấy làm khó chịu.
+- *Vì ―, vị ―*. Vì nể, sợ mất lòng.
+- *Dầu ―*. Mặc ý.
+- *Mặc ―*. id.
+- *Xiêu ―*. Xiêu theo, nghe theo, chìu theo.
+- *Sờn ―.* 
+- *Ngã ―.* 
+- *} Thất chí, thối chí, không trông chi nữa.*
+- *Giục ―*. Làm cho mạnh lòng, làm cho phấn phát.
+- *Nỡ ― nào*. Đam lòng nào, nào khẳng, nào nỡ, đâu nỡ.
+- *― động ― lo*. Động lòng dục, tư tưỡng về đàng trải.
+- *Dốc ―*. Quyết lòng, quyết chí, thề lòng.
+- *Non ―*. Yếu lòng, non gan, không có chí ý mạnh mẽ.
+- *Cả. -.Cả gan, không hay sợ sệt.
+- *Trở ―*. Trở ra ý khác ; khác lòng, khác dạ ; ra lòng thù nghịch, không giữ lời giao, lời thề.
+- *Chìu ―*. Chìu theo ý, làm cho được lòng ai.
+- *Dừa ―*. Nương theo ý ai.
+- *Mua ―.* 
+- *Lấy ―.* 
+- *} Chìu lòn, làm cho được lòng ai.*
+- *Có ―*. Có bụng tử tế với ai, hết lòng với ai, trung hậu.
+- *Đành ― dành dạ*. Dứt tình, đàng đoạn.
+- *Ưng ―.* 
+- *Đành ―.* 
+- *} Ưng chịu, đành ý, bằng lòng.*
+- *Rèn ―*. Nắm giữ một lòng ; dốc một bề.
+- *Thìn ―.* 
+- *Răn ―.* 
+- *} Dằn lòng, sửa lòng.*
+- *Êm ―*. Bằng lòng, mát bụng.
+- *Vững ―*. Vững trong mình, chắc ý, không nghi ngại.
+- *Bền ―*. Bền chí, không nao ; cứng cỏi, gắt gỏng.
+- *Cạn ―*. Thật thà, cạn dạ, tự nhiên hay xiêu, hay nghe, không có bụng sâu sắc.
+- *Cứng ―*. Cứng cõi, không hay nghe đều phải.
+- *Nguôi ―*. Khuây lâng, bỏ qua.
+- *Lạt ―*. Hay động lòng thương, hay nghe lời năn nỉ, kêu xin.
+- *Nguội ―*. Hóa ra nguội lạnh, không còn tưởng nhớ.
+- *Chếch ―.* 
+- *Mích ―.* 
+- *} Chếch mếch không bằng lòng, làm cho phải buồn giận mà mất lòng, nặng lòng.*
+- *Cảm ― cảm trí*. Chăm chỉ, ý tứ, không cho xao lảng.
+- *Đem ―*. Ra lòng gì, nghĩ thế gì . Đem lòng tốt, thì là lấy lòng tốt.
+- *Dụng ―*. Dụng tâm, có lòng gì. Dụng lòng bạc ác, thì là có lòng bạc ác, ở bạc ác ; vị bụng ai, tư tưởng về việc gì.
+- *Phiền ―*. Buồn bả không yên trong lòng.
+- *Nặng ―*. Cực khổ trong lòng, đau lòng, mất lòng.
+- *An ―*. Bằng lòng, vui lòng.
+- *Cam ―*. Ưng bụng, không nan trách ai.
+- *Để ―*. Để bụng, chữ dạ không quên.
+- *Ghi ―*. id.
+- *― mẹ*. Bụng mẹ.Căn giữa, ở chính giữa ; Cột lòng mẹ thì là cột cái.
+- *― Con*. Con trong bụng mẹ, một lần chữa nghén, một lần đẻ ; đầu con ; lòng căn cột con.
+- *― heo*. Bộ ruột heo, hiểu cả trái tim, gan, phổi.
+- *― lanh*. Huyết tim ở trong bụng con heo, người ta nấu lộn với lòng nó cho vừa chin mà thôi, gọi là đồ ăn bổ khỏe.
+- *― tạp*. Bao tử, bộ ruột.
+- *― tin*. Lòng tin cậy, sự tin cậy.
+- *Rối ―*. Rối rắm trong lòng.
+- *― vét*. Chỗ tát nước ở khoang lòng.
+- *― sông.* 
+- *― lạch.* 
+- *} Chính giữa đáy sông, chính giữa lạch.*
+- *― tàu*. Khoang tàu ; chính đường tàu chạy ở giữa sông.
+- *― biển*. Biển ; rún biển.
+- *― can*. Khoản không giữa hai cột nhà.
+- *― mo*. Có mỏ khum khum, cong quớt, co cóp, giống cái mo để úp hoặc để ngửa.
+- *― chảo*. Hủng xuống sâu, giống cái chảo để ngửa ; chỗ vũng sâu, búng sâu ở sông rạch.
+- *― ống*. Rồng thông như cái ống, dài như cái ống.
+- *― nứa*. Có nhiều đảng rổng, khía dài giống như bề trong cây nứa, xoi lòng nứa.
+- *― máng*. Có đàng xoi dà má lớn giống như cái máng.
+- *― súng*. Lòng ống cây súng.
+- *Đau ― súng, súng nổ, đau ― gỗ, gỗ kêu*. Tức mình phải kêu, phải nói.
+- *― bàn tay*. Phía trong bàn tay.
+- *Dụng ― không đụng thịt*. Tưởng sự thảo lảo, chẳng tưởng tới miếng ăn.
+- *Mất ― trước được ― sau*. Thà giữ sự thật thà, chẳng thà vị mặt mà để giận hờn lại sau.
+- *― thòng*. Dư ra, thừa ra ; nhểu nhão : Mũi dãi lòng thòng.
+- *― dòng*. Kéo dài ra ; để lâu lắc.
+- *Cầm ― chẳng đậu*. Động lòng, chịu không đặng.
+- *Dằn ―*. Kềm giữ lấy ý mình : ăn ít nhiều cho vững bụng.
+- *Lót ―*. Ăn sơ (nhứt là bữa ăn sớm).
+- *Mở ―*. Làm cho hiểu biết, ham muốn, làm cho đem bụng thương tưởng.
+- *Vỡ ―*. Mở trí ý lần đầu.
+- *Học vỡ ―*. Học tập cho hiểu việc lần đầu hết, cho mở trí khôn.
+- *Xưng tội vở ―*. Xưng tội lần đầu hết, tập cho biết đàng xưng tội.
+- *― Trời*. Ý Trời muốn thế nào.
+- *― người*. Ý người muốn thế nào.
+- *― dân*. Bụng dân ước muốn, tin tưởng thế nào.
+- *Đặng ―*. Đặng như ý ai, được bụng người ta thương tưởng, đã làm cho kẻ khác mến yêu.
+- *Mất ―*. Chếch mếch, làm cho phải hờn giận.
+- *Đồng ―*. Hiệp một lòng, một ý.
+- *Một ―*. Có một ý, một bụng ngay thẳng.
+- *Hai ―*. Lưỡng đầu tim ; nửa theo bên này, nửa theo bên khác ; hai lỗ thông.
+- *― một dạ hai*. id.Chia lòng.
+- *Súng hai ―*. Súng có hai ống thông.
+- *Thử ―*. Thử cho biết bụng dạ ra làm sao.
+- *Ướm ―*. id.
+- *Dọn ―*. Giữ mình, giữ lòng cho thanh tịnh.
+- *Thề ―*. Thề nguyền, dốc lòng, lập tâm.
+- *Dặn ―*. id.
+- *Lời thật mất ―*. Hễ nói ngay thì sao cũng chếch mếch.
+- *Chay ―*. Sự giữ lòng chay sạch, bớt bữa ăn.
+- *Đói ―*. Đói bụng.
+- *No ―*. No bụng.
+- *Khoang ―*. Khoang ở chính giữa chiếc thuyền.
+- *Âu ― mát dạ*. Đành bụng, ưng bụng, bằng bụng, không nói gì nữa, ( thường dùng như tiếng nói lẩy).
