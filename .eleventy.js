@@ -726,35 +726,31 @@ function createUniqueSlug(data) {
   return `${clean}-${hash}`;
 }
 
-eleventyConfig.addGlobalData("eleventyComputed", {
-  permalink: (data = {}) => {
+eleventyConfig.addGlobalData("permalink", (data) => {
 
-    if (!data.page || !data.page.inputPath) return;
+  if (!data.page || !data.page.inputPath) return;
+  if (!data.page.inputPath.includes("notes")) return;
 
-    if (!data.page.inputPath.includes("notes")) return;
+  const pathParts = data.page.inputPath.split("/");
+  const letterFolder = pathParts[pathParts.length - 2];
 
-    const pathParts = data.page.inputPath.split("/");
-    const letterFolder = pathParts[pathParts.length - 2];
+  const letterSlug = slugify(letterFolder, {
+    lower: true,
+    strict: true
+  });
 
-    const letterSlug = slugify(letterFolder, {
-      lower: true,
-      strict: true
-    });
+  const baseSlug = slugify(data.page.fileSlug, {
+    lower: true,
+    strict: true
+  });
 
-    const rawFileName = data.page.fileSlug;
+  const hash = require("crypto")
+    .createHash("md5")
+    .update(data.page.inputPath)
+    .digest("hex")
+    .slice(0, 6);
 
-    const hanChar = rawFileName.split(" ")[0];
-    const vnPart = rawFileName.replace(hanChar, "").trim();
-
-    const slug = slugify(vnPart, {
-      lower: true,
-      strict: true
-    });
-
-    const finalSlug = `${slug}-${hanChar}`;
-
-    return `/dai-nam-quac-am-tu-vi-${letterSlug}/${finalSlug}/`;
-  }
+  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${baseSlug}-${hash}/`;
 });
   
 /* ===== END FIX ===== */
