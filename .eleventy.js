@@ -726,10 +726,29 @@ function createUniqueSlug(data) {
   return `${clean}-${hash}`;
 }
 
-eleventyConfig.addGlobalData("permalink", (data) => {
-  if (!data.page || !data.page.inputPath.includes("notes")) {
+eleventyConfig.addGlobalData("permalink", (data) => {}) {
+  // 🔐 Guard tuyệt đối
+  if (!data.page || !data.page.inputPath) {
     return;
   }
+
+  // Chỉ áp dụng cho notes
+  if (!data.page.inputPath.includes("notes")) {
+    return;
+  }
+
+  const slug = createUniqueSlug(data);
+
+  const pathParts = data.page.inputPath.split("/");
+  const letterFolder = pathParts[pathParts.length - 2];
+
+  const letterSlug = slugify(letterFolder, {
+    lower: true,
+    strict: true
+  });
+
+  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${slug}/index.html`;
+});
 
   const slug = createUniqueSlug(data);
   const pathParts = data.page.inputPath.split("/");
