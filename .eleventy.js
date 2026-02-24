@@ -728,17 +728,13 @@ function createUniqueSlug(data) {
 
 eleventyConfig.addGlobalData("permalink", (data = {}) => {
 
-  // 🔒 Guard tuyệt đối
   if (!data.page || !data.page.inputPath) {
     return;
   }
 
-  // Chỉ áp dụng cho thư mục notes
   if (!data.page.inputPath.includes("notes")) {
     return;
   }
-
-  const slug = createUniqueSlug(data);
 
   const pathParts = data.page.inputPath.split("/");
   const letterFolder = pathParts[pathParts.length - 2];
@@ -748,7 +744,21 @@ eleventyConfig.addGlobalData("permalink", (data = {}) => {
     strict: true
   });
 
-  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${slug}/index.html`;
+  // ===== THÊM Ở ĐÂY =====
+  const rawFileName = data.page.fileSlug;
+
+  const hanChar = rawFileName.split(" ")[0]; // 乙
+  const vnPart = rawFileName.replace(hanChar, "").trim();
+
+  const slug = slugify(vnPart, {
+    lower: true,
+    strict: true
+  });
+
+  const finalSlug = `${slug}-${hanChar}`;
+  // =======================
+
+  return `/dai-nam-quac-am-tu-vi-${letterSlug}/${finalSlug}/index.html`;
 
 });
 
