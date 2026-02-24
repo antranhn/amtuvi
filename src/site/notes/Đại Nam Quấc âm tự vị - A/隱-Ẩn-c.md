@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/an-c/"}
+{"dg-publish":true,"permalink":"/dai-nam-quac-am-tu-vi-a/an-c-2/"}
 ---
 
 隱 Ẩn. _c_.
